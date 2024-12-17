@@ -1,5 +1,5 @@
 ## Velkommen 👋
-Mit navn er Magnus. Jeg har lært HTML, CSS og JS på et web-utvikling kurs gjennom JobLop.
+Mit navn er Magnus. Jeg har lært HTML, CSS og JS på et web-utvikling kurs gjennom JobLoop.
 <!--
 **Magnus0155/Magnus0155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
